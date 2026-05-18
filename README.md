@@ -14,3 +14,7 @@ Technologies used:
 
 Goal:
 Learning AI development, APIs, and software projects step by step.
+
+## License
+
+This project is licensed under the MIT License.
