@@ -4,6 +4,7 @@ This repository contains beginner-friendly AI and Python projects.
 
 Projects included:
 - Groq AI Chatbot
+- Gemini AI Chatbot
 - Python experiments
 - API-based applications
 
